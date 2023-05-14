@@ -18,11 +18,12 @@
 <div align"left">
     <h3> 🧰 Languages and tools: </h3>
     <div>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/lua/lua-plain-wordmark.svg" title="Lua" width="40" height="40" />&nbsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/unity/unity-original-wordmark.svg" title="Unity" width="40" height="40" />&nbsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/visualstudio/visualstudio-plain-wordmark.svg" title="VS Code" width="40" height="40" />&nbsp;
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" title="Lua" width="40" height="40" />&nbsp;
+        <img src="https://cdn.icon-icons.com/icons2/615/PNG/256/Unity_icon-icons.com_56592.png" title="Unity" width="40" height="40" />&nbsp;
+        <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" title="VS Code" width="40" height="40" />&nbsp;
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="40" height="40" />&nbsp;
         <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" title="C#" width="40" height="40" />&nbsp;
+        <img src="https://www.freeiconspng.com/thumbs/pawn-icon/pawn-icon-2.png" title="Pawno" width="40" height="40" />&nbsp;
   
   
 </div>
